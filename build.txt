@@ -1,0 +1,4 @@
+displayName = Temporary World Generator
+author = Scalie
+version = 0.1
+side = Client

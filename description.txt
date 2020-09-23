@@ -1,0 +1,6 @@
+This is a mod made for debugging purposes - it allows you to generate and enter a world in a single click (by pressing the middle mouse button on the menu) instantly, to allow for fast testing of world generation. After you leave the world, the world and player made will be automatically deleted to save you from having to do that yourself.
+You can configure the settings of the world you make from this mod's configuration menu - note if you use the custom world size I HIGHLY reccomend you stay within the limits of the vanilla world (4200 - 8400 width, 1200 - 2400 height), anything outside of that will most likely result in a crash or similar behavior.
+
+Side note, there is a very strange issue where attempting to generate pots with the fake world save just... crashes. For now the vanilla method that worldgens pots is MethodSwapped out. I want to fix this at some point, if anyone has any leads on that please contact me on discord Scalar#9106.
+
+Im not responsible for corrupted saves if that somehow happens with this, use at your own caution.
